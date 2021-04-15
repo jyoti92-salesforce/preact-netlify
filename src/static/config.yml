@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  publish_mode: editorial_workflow
+publish_mode: editorial_workflow
   branch: master
 media_folder: src/assets
 public_folder: /assets
