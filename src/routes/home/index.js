@@ -20,7 +20,7 @@ const Home = () => {
 		<div class={style.home}>
 			<div class={style.about}>
 				<div class={style.imageContainer}>
-					<div class={style.image} />dsdad
+					<div class={style.image} />
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
