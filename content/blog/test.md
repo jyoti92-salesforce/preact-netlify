@@ -2,6 +2,7 @@
 title: Omni Channel In Lightning
 date: 2021-04-17T03:16:33.903Z
 subtitle: ""
+cover: https://www.clipartmax.com/png/middle/250-2508639_omnichannel-communications-v5-omni-channel-icon-png.png
 tags: Salesforce, Lightning, Omni-Channel
 ---
 **how to add omni in your app:-**
