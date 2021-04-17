@@ -18,7 +18,7 @@ tags: Salesforce, Lightning, Omni-Channel
    Routing Priority: in this we set priority of route the work item
    Push Time-Out: it set time for work item how much wait for accept by agent .
    Skills-Based Routing Rules: this is user for skill based routing of work item. Wee can use multiple skill for route work. For example if one agent want to pass their work item to any one who is capable or has skills for that work  then agent can pass using particular skills.
-   Work Item Size: this set the size of work item at a time a agent can have how many work item or record .
+   **Work Item Size: this set the size of work item at a time a agent can have how many work item or record .**
 
 Units of Capacity :No unit of work item meant work item has 2 unit then agent can handal 4 case
 Percentage of Capacity: the capacity of agent at a time to handle work item.
